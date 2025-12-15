@@ -1,4 +1,4 @@
-##EJERCIO 1
+## EJERCIO 1
 
 mini_turtle_task (carpeta)
 
